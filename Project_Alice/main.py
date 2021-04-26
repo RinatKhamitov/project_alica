@@ -52,13 +52,13 @@ def offer_class(user_id, req, res):
                         {
                             'image_id': player_class['warrior']['img'],
                             'title': player_class['warrior']['name'],
-                            'description': 'Меч - грознеое оружие',
+                            'description': 'Меч - грозное оружие',
 
                         },
                         {
                             'image_id': player_class['rogue']['img'],
                             'title': player_class['rogue']['name'],
-                            'description': 'Лук - грознеое оружие',
+                            'description': 'Лук - коварное оружие',
 
                         }
                     ],
